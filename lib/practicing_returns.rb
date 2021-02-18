@@ -10,5 +10,5 @@ def hello(array)
 end
 
 #binding.pry
-greetings = []
-hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}"}
+# greetings = []
+# hello(["Tim", "Tom", "Jim"]) { |name| "Hi, #{name}"}
